@@ -2,7 +2,7 @@
 
 Songloft JS 插件：GitHub 音源搜索、沙箱可用性检测、多选灌入洛雪音源插件并支持一键撤回。需要先安装洛雪音乐插件。
 
-![版本](https://img.shields.io/badge/version-1.4.27-blue)
+![版本](https://img.shields.io/badge/version-1.4.28-blue)
 
 > 🐳 **非 Songloft 用户**可使用独立版 —— [lx-hub](https://github.com/zlyon/lx-hub)，Web 版音源聚合站，Docker 一条命令部署（镜像 `ghcr.io/zlyon/lx-hub`，支持 amd64/arm64），浏览器直接用。
 
