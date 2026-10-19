@@ -1,7 +1,7 @@
 {
   "name": "音源猎手",
   "version": "1.4.28",
-  "description": "GitHub 音源爬取、去重、沙箱可用性检测、多选灌入洛雪音源插件并支持一键撤回；灌入返回洛雪 id、@name 同名去重、日志兜底确认、一键同步洛雪状态；onInit 同步返回防热重载死锁；镜像/直连/代理智能切换互斥；左侧导航 + 圆角卡片界面，配色跟随主程序深浅色主题",
+  "description": "洛雪音源搜索、去重、可用性测试，可批量灌入洛雪音源插件、知音插件，同时支持一键撤回已灌入音源。重名、同音源自动去重。自部署版 https://github.com/zlyon/lx-hub",
   "author": "zlyon",
   "homepage": "https://github.com/zlyon/lx-hunter",
   "license": "UNLICENSED",
@@ -15,6 +15,6 @@
   ],
   "updateUrl": "https://raw.githubusercontent.com/zlyon/lx-hunter/main/plugin.json",
   "download_url": "https://github.com/zlyon/lx-hunter/releases/download/v1.4.28/lx-hunter-v1.4.28.jsplugin.zip",
-  "entryHash": "33dec6d87f8ac7b723105751cf7e87e83e0bdc3f1ada73eb2e4cba8f3b3b457c",
-  "zipHash": "ea00ac2cc0e865fc0badd6a8eadeb972cb9c0e986b52a32aeaf50d8c51a16752"
+  "entryHash": "2cee1cbd7eb8a3b0a86b8b591765b87166818913490fff7b4fbd27c8a69dfc84",
+  "zipHash": "aa0f0f95952174562a7cae7b10b212cb75c6856b15dfd150a0e4240fe93a4f62"
 }
